@@ -1,3 +1,3 @@
 <?php
-echo "Hello World\n\r";
+echo "Hello World<br />";
 echo gethostname();
